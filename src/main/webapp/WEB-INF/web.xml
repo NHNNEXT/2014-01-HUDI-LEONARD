@@ -156,5 +156,14 @@
 	</servlet-mapping>
 
 	<!-- real development servlet end -->
+	
+	<filter>
+		<filter-name>simple-filter</filter-name>
+		<filter-class>filter.SimpleFilter</filter-class>
+	</filter>
+	<filter-mapping>
+		<filter-name>simple-filter</filter-name>
+		<servlet-name>MainPageServlet</servlet-name>
+	</filter-mapping>
 
 </web-app>
