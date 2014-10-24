@@ -1,5 +1,10 @@
 2014-01-HUDI-LEONARD
 ====================
+
+
+사용법<br>
+http://www.youtube.com/watch?v=UGEJkMyKCXM
+
 팀 활동 문서 (백로그, 일정 등)<br>
 http://bit.ly/1szvoUe<br>
 <br>
