@@ -1,11 +1,13 @@
-COLLAGEJAM : 2014-01-HUDI-LEONARD
-====================
-
+COLLAGEJAM
+=
 - 설명
     - 사용자가 원하는 사진과 음악으로 동영상을 올려주는 서비스
-- 사용법
+- 소개 동영상
     - http://www.youtube.com/watch?v=UGEJkMyKCXM
 
+
+2014-01-HUDI-LEONARD
+=
 - 팀 활동 문서 (백로그, 일정 등)
     - http://bit.ly/1szvoUe
 
