@@ -1,7 +1,8 @@
 COLLAGEJAM : 2014-01-HUDI-LEONARD
 ====================
 
-
+- 설명
+    - 사용자가 원하는 사진과 음악으로 동영상을 올려주는 서비스
 - 사용법
     - http://www.youtube.com/watch?v=UGEJkMyKCXM
 
