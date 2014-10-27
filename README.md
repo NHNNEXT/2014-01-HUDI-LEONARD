@@ -4,6 +4,9 @@ COLLAGEJAM
     - 사용자가 원하는 사진과 음악으로 동영상을 올려주는 서비스
 - 소개 동영상
     - http://www.youtube.com/watch?v=UGEJkMyKCXM
+- 제공 사항
+    - PC 웹 (만들기, 결과물 보기)
+    - 모바일 웹 (결과물 보기)
 
 
 2014-01-HUDI-LEONARD
